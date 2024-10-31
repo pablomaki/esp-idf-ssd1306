@@ -1,4 +1,0 @@
-## IDF Component Manager Manifest File
-dependencies:
-  espressif/freetype:
-    version: "^2.13.0~3"
